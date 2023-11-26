@@ -1,0 +1,1 @@
+${BASE_URL}/search/movie?query=${search}&api_key=${API_KEY}
